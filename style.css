@@ -47,5 +47,22 @@
     font-size: 60px;
 }
 .bottom{
+    margi;
+}
+.list2{
     display: flex;
+    list-style: none;
+}
+.highlighted{
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: none;
+    color: white;
+    padding: 8px;
+    background-color: #000;
+    border-radius: 4px;
+}
+.last{
+    text-decoration: none;
+    color: #000;
 }
