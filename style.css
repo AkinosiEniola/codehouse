@@ -41,28 +41,30 @@
     border-radius: 5px;
 }
 .body{
-    padding: 50px 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+.bodi{
+    margin-right: 240px;
 }
 .get{
     font-size: 60px;
 }
-.bottom{
-    margi;
-}
-.list2{
-    display: flex;
-    list-style: none;
-}
-.highlighted{
-    text-decoration: none;
-    margin-right: 20px;
-    margin-left: none;
-    color: white;
-    padding: 8px;
+.button1{
     background-color: #000;
+    color: #ffff;
+    padding: 8px;
     border-radius: 4px;
 }
-.last{
-    text-decoration: none;
-    color: #000;
+.button2{
+    background-color: #ffff;
+    border-style: none;
+}
+.lady{
+    width: 600px;
+    padding-right: 80px;
+    padding-top: 50px;
 }
